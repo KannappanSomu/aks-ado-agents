@@ -13,8 +13,10 @@ By the end of you will have bootstrapped:
 
 and deployed a Wordpress application via a Pipeline running on those same agents. 
 
+### **<div align="center">[Let's get started!](doc/01_prereqs.md)</div>**
+
 Below is the architecture
 
 ![alt text](./architecture.JPG "Architecture")
 
-### **<div align="center">[Let's get started!](doc/01_prereqs.md)</div>**
+
