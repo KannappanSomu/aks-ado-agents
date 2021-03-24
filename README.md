@@ -11,6 +11,10 @@ By the end of you will have bootstrapped:
 - A Container Registry
 - A couple of self-hosted Azure Pipelines Agents using the [Helm](https://helm.sh) package manager
 
-and deployed a Wordpress application via a Pipeline running on those same agents.
+and deployed a Wordpress application via a Pipeline running on those same agents. 
+
+Below is the architecture
+
+![alt text](./architecture.JPG "Architecture")
 
 ### **<div align="center">[Let's get started!](doc/01_prereqs.md)</div>**
