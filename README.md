@@ -6,7 +6,7 @@ This repo was designed to get anyone up and running self-hosted Azure DevOps Age
 Everything will be deployed as code, and the walkthrough can be completed in under an hour!
 
 By the end of you will have bootstrapped:
-- A Terraform backend
+- A Terraform backends
 - A working [Kubernetes](http://kubernetes.io) cluster
 - A Container Registry
 - A couple of self-hosted Azure Pipelines Agents using the [Helm](https://helm.sh) package manager
